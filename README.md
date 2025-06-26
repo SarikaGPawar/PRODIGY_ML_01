@@ -1,1 +1,2 @@
 # PRODIGY_ML_01
+This project is my first internship task at Prodigy Infotech, where I built a Linear Regression model using Python and scikit-learn to predict house prices based on key features such as square footage, number of bedrooms, full baths, and half baths from the Housing dataset. I cleaned the data by dropping irrelevant columns, handled missing values and trained the model on the processed data. The final predictions were generated for the test dataset and saved in a CSV file. This project was developed and submitted using Google Colab
